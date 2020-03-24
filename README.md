@@ -1,6 +1,6 @@
 # AppGoty
 
-Aplicacion web, con graficos para votaciones realizada con Angular y Material Design Bootstrap 4 utilizando ngx-charts y Cloud Functions y Cloud Firestore para el Backend.
+Aplicacion web, con graficos para votaciones realizada con Angular y Material Design Bootstrap 4 utilizando ngx-charts. Para el Backend se ha utilizado Cloud Functions y Cloud Firestore, para luego desplegarlo en el Hosting del propio Firebase.
 
 ## Instalar dependencias
 - Ejecutar en terminal comando: `npm install`.
