@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  url: 'https://us-central1-appgoty-5442a.cloudfunctions.net',
+  url: `${process.env.APP_URL}`,
   firebase: {
     apiKey: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
     authDomain: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",

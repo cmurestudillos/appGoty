@@ -1,7 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 // Rutas
-import { AppRoutingModule } from './app-routing.module';
+import { AppRoutingModule } from './routes/app-routing.module';
 // Modulos componentes reutilizables/comunes
 import { ComponentsModule } from './modules/components.module';
 // Peticiones HTTP

@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 // Rutas
-import { AppRoutingModule } from '../../app/app-routing.module';
+import { AppRoutingModule } from '../routes/app-routing.module';
 // Componentes
 import { NavbarComponent } from '../components/shared/navbar/navbar.component';
 import { FooterComponent } from '../components/shared/footer/footer.component';
